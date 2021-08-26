@@ -2,6 +2,7 @@
 
 # Motivation
 The aim of the project is to build a dog breed classifier using convolution neural networks. In this project i have a build a CNN using some of the pretained models available out there. The model would be able to identify dog breeds and as well detects a dog breed resembling some a input human images are given.
+The entire pipeline for the model and its technical details are can be found in blog post : https://venkateshprasath-manoharan.medium.com/dog-breed-identification-using-pertained-neural-networks-e7b1e972e539
 
 # Requirements:
 1. Tensorflow
