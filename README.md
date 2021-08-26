@@ -14,5 +14,12 @@ The aim of the project is to build a dog breed classifier using convolution neur
 
 # File Discriptions
 1. dog_app.ipynb files contain all the necessary code section to run and train a model
-2. Images folder contains all the images 
-3. Saved model folder contains are model files 
+2. All Images folder contains all the images 
+3. Model weights for different pretained models 
+
+# Acknowledgements 
+1. https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+2. https://towardsdatascience.com/4-pre-trained-cnn-models-to-use-for-computer-vision-with-transfer-learning-885cb1b2dfc
+3. https://keras.io/layers/convolutional/
+4. https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
