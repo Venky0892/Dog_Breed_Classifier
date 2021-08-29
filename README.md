@@ -24,6 +24,8 @@ The entire pipeline for the model and its technical details are can be found in 
 3. Model weights for different pretained models 
 
 # Results
+![alt text](https://github.com/Venky0892/Dog_Breed_Classifier/blob/main/Screenshot%202021-08-29%20at%204.54.36%20PM.png)
+
 
 
 # Acknowledgements 
