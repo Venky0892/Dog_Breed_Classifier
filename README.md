@@ -24,6 +24,9 @@ The entire pipeline for the model and its technical details are can be found in 
 3. Model weights for different pretained models 
 
 # Results
+1. In my first prediction, i uploaded a Tony Stark's images to see what my algorithms has estimated: Its predicted the images as Brussels Griffon, That was crazy
+2. In the second and third predictions i uploaded a car cake images respectively: But this time it was able to predict correctly that the images is not neither human or dog.
+3. In the third prediction i uploaded a images of a Black and Tan Coonhound the model was able to predict correctly.
 ![alt text](https://github.com/Venky0892/Dog_Breed_Classifier/blob/main/Screenshot%202021-08-29%20at%204.54.36%20PM.png)
 
 
